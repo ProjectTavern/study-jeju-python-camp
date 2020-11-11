@@ -1,4 +1,4 @@
-# Study-PY3-lib-sample
+# 🎃 Study-PY3-lib-sample
 
 > Python3 라이브러리 샘플 사용기
 
